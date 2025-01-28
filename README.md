@@ -16,7 +16,7 @@ Feel free to check out my repositories!
 ---
 
 please let's not connect!  
-[insta]([your-linkedin-url](https://www.instagram.com/0dlan/)) 
+[insta](https://www.instagram.com/0dlan/) 
 
 
 
