@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm 0dlan2 👋
 
-<!--
-**0dlan2/0dlan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CS Major**  
+💻 **Ctrl + C, Ctrl + V Programmer**
 
-Here are some ideas to get you started:
+I'm a computer science enthusiast who enjoys tackling problems and building things — sometimes with a bit of help from the internet.  
+Currently learning, coding, and contributing to cool open-source projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, Java, C++
+- Web Development: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VSCode, Docker
+
+Feel free to check out my repositories!
+
+---
+
+please let's not connect!  
+[insta]([your-linkedin-url](https://www.instagram.com/0dlan/)) 
+
+
+
+
+yeah that's AI generated too.
